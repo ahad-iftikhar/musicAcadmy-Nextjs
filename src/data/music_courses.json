@@ -1,0 +1,304 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your piano journey with fundamental techniques and music theory basics.",
+            "price": 199.99,
+            "instructor": "Sarah Williams",
+            "isFeatured": true,
+            "image": "/images/courses/piano-basics.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Advanced Guitar Techniques",
+            "slug": "advanced-guitar-techniques",
+            "description": "Master complex guitar techniques including fingerpicking, sweep picking and advanced scales.",
+            "price": 249.99,
+            "instructor": "James Rodriguez",
+            "isFeatured": true,
+            "image": "/images/courses/advanced-guitar.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Music Theory Fundamentals",
+            "slug": "music-theory-fundamentals",
+            "description": "Learn essential music theory concepts from rhythm and melody to harmony and composition.",
+            "price": 149.99,
+            "instructor": "Dr. Michael Chen",
+            "isFeatured": false,
+            "image": "/images/courses/music-theory.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Vocal Training Masterclass",
+            "slug": "vocal-training-masterclass",
+            "description": "Develop your singing voice with professional techniques and vocal exercises.",
+            "price": 299.99,
+            "instructor": "Maria Garcia",
+            "isFeatured": true,
+            "image": "/images/courses/vocal-training.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Drum Basics",
+            "slug": "drum-basics",
+            "description": "Start your drumming journey with fundamental rhythms and techniques.",
+            "price": 179.99,
+            "instructor": "John Smith",
+            "isFeatured": false,
+            "image": "/images/courses/drum-basics.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Jazz Improvisation",
+            "slug": "jazz-improvisation",
+            "description": "Learn the art of jazz improvisation and develop your musical creativity.",
+            "price": 229.99,
+            "instructor": "Robert Johnson",
+            "isFeatured": true,
+            "image": "/images/courses/jazz-improv.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Electronic Music Production",
+            "slug": "electronic-music-production",
+            "description": "Create professional electronic music using modern production techniques.",
+            "price": 279.99,
+            "instructor": "Alex Turner",
+            "isFeatured": true,
+            "image": "/images/courses/electronic-music.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Violin for Beginners",
+            "slug": "violin-for-beginners",
+            "description": "Start your journey with violin basics and essential techniques.",
+            "price": 189.99,
+            "instructor": "Emma Thompson",
+            "isFeatured": false,
+            "image": "/images/courses/violin-basics.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Bass Guitar Mastery",
+            "slug": "bass-guitar-mastery",
+            "description": "Master the bass guitar with advanced techniques and groove development.",
+            "price": 219.99,
+            "instructor": "Marcus Miller",
+            "isFeatured": true,
+            "image": "/images/courses/bass-mastery.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Songwriting Workshop",
+            "slug": "songwriting-workshop",
+            "description": "Learn the craft of songwriting from melody creation to lyrics writing.",
+            "price": 199.99,
+            "instructor": "Lisa Anderson",
+            "isFeatured": false,
+            "image": "/images/courses/songwriting.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Classical Piano Masterclass",
+            "slug": "classical-piano-masterclass",
+            "description": "Dive deep into classical piano repertoire and advanced techniques.",
+            "price": 329.99,
+            "instructor": "Vladimir Petrov",
+            "isFeatured": true,
+            "image": "/images/courses/classical-piano.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Music Production Basics",
+            "slug": "music-production-basics",
+            "description": "Learn the fundamentals of music production and recording.",
+            "price": 159.99,
+            "instructor": "David Wilson",
+            "isFeatured": false,
+            "image": "/images/courses/production-basics.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Saxophone Essentials",
+            "slug": "saxophone-essentials",
+            "description": "Master the basics of saxophone playing with professional guidance.",
+            "price": 199.99,
+            "instructor": "Charlie Parker Jr.",
+            "isFeatured": false,
+            "image": "/images/courses/saxophone.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Music Business 101",
+            "slug": "music-business-101",
+            "description": "Understanding the music industry and business fundamentals.",
+            "price": 149.99,
+            "instructor": "Jennifer Lawrence",
+            "isFeatured": false,
+            "image": "/images/courses/music-business.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Blues Guitar Techniques",
+            "slug": "blues-guitar-techniques",
+            "description": "Learn authentic blues guitar styles and improvisation.",
+            "price": 189.99,
+            "instructor": "BB King Jr.",
+            "isFeatured": true,
+            "image": "/images/courses/blues-guitar.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Digital Audio Workstation Mastery",
+            "slug": "daw-mastery",
+            "description": "Master your DAW for professional music production.",
+            "price": 249.99,
+            "instructor": "Steve Anderson",
+            "isFeatured": true,
+            "image": "/images/courses/daw-mastery.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Orchestral Composition",
+            "slug": "orchestral-composition",
+            "description": "Learn to compose for full orchestra with professional techniques.",
+            "price": 299.99,
+            "instructor": "Hans Mueller",
+            "isFeatured": false,
+            "image": "/images/courses/orchestral.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Music Marketing Strategies",
+            "slug": "music-marketing-strategies",
+            "description": "Learn effective marketing strategies for musicians and bands.",
+            "price": 179.99,
+            "instructor": "Mark Thompson",
+            "isFeatured": false,
+            "image": "/images/courses/music-marketing.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Flute Fundamentals",
+            "slug": "flute-fundamentals",
+            "description": "Master the basics of flute playing with step-by-step guidance.",
+            "price": 169.99,
+            "instructor": "Sarah Fletcher",
+            "isFeatured": false,
+            "image": "/images/courses/flute.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Rock Drumming Techniques",
+            "slug": "rock-drumming-techniques",
+            "description": "Master essential rock drumming patterns and fills.",
+            "price": 219.99,
+            "instructor": "Tommy Lee",
+            "isFeatured": true,
+            "image": "/images/courses/rock-drums.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Music Mixing and Mastering",
+            "slug": "mixing-and-mastering",
+            "description": "Professional techniques for mixing and mastering music.",
+            "price": 289.99,
+            "instructor": "Chris Lord-Alge",
+            "isFeatured": true,
+            "image": "/images/courses/mixing-mastering.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Acoustic Guitar Basics",
+            "slug": "acoustic-guitar-basics",
+            "description": "Start your acoustic guitar journey with essential techniques.",
+            "price": 159.99,
+            "instructor": "Taylor Swift",
+            "isFeatured": false,
+            "image": "/images/courses/acoustic-guitar.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Music Copyright Law",
+            "slug": "music-copyright-law",
+            "description": "Understanding music rights, licensing, and legal protection.",
+            "price": 199.99,
+            "instructor": "Richard Matthews",
+            "isFeatured": false,
+            "image": "/images/courses/copyright-law.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Cello Masterclass",
+            "slug": "cello-masterclass",
+            "description": "Advanced cello techniques and repertoire development.",
+            "price": 279.99,
+            "instructor": "Yo-Yo Ma Jr.",
+            "isFeatured": true,
+            "image": "/images/courses/cello.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Music Arrangement",
+            "slug": "music-arrangement",
+            "description": "Learn professional music arrangement techniques for various genres.",
+            "price": 229.99,
+            "instructor": "Quincy Jones Jr.",
+            "isFeatured": false,
+            "image": "/images/courses/arrangement.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Hip Hop Production",
+            "slug": "hip-hop-production",
+            "description": "Create professional hip hop beats and productions.",
+            "price": 249.99,
+            "instructor": "Dr. Dre Jr.",
+            "isFeatured": true,
+            "image": "/images/courses/hip-hop.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Opera Vocal Training",
+            "slug": "opera-vocal-training",
+            "description": "Develop your operatic voice with classical techniques.",
+            "price": 349.99,
+            "instructor": "Maria Callas Jr.",
+            "isFeatured": false,
+            "image": "/images/courses/opera.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Music Therapy Basics",
+            "slug": "music-therapy-basics",
+            "description": "Introduction to using music for therapeutic purposes.",
+            "price": 189.99,
+            "instructor": "Helen Morrison",
+            "isFeatured": false,
+            "image": "/images/courses/therapy.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Film Scoring Essentials",
+            "slug": "film-scoring-essentials",
+            "description": "Learn the basics of composing music for film and media.",
+            "price": 299.99,
+            "instructor": "John Williams Jr.",
+            "isFeatured": true,
+            "image": "/images/courses/film-scoring.jpg"
+        },
+        {
+            "id": 30,
+            "title": "World Music Exploration",
+            "slug": "world-music-exploration",
+            "description": "Discover and learn various musical traditions from around the globe.",
+            "price": 199.99,
+            "instructor": "Ravi Shankar Jr.",
+            "isFeatured": false,
+            "image": "/images/courses/world-music.jpg"
+        }
+    ]
+}
