@@ -17,7 +17,7 @@
             "description": "Master complex guitar techniques including fingerpicking, sweep picking and advanced scales.",
             "price": 249.99,
             "instructor": "James Rodriguez",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/advanced-guitar.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "description": "Develop your singing voice with professional techniques and vocal exercises.",
             "price": 299.99,
             "instructor": "Maria Garcia",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/vocal-training.jpg"
         },
         {
@@ -47,7 +47,7 @@
             "description": "Start your drumming journey with fundamental rhythms and techniques.",
             "price": 179.99,
             "instructor": "John Smith",
-            "isFeatured": false,
+            "isFeatured": true,
             "image": "/images/courses/drum-basics.jpg"
         },
         {
@@ -57,7 +57,7 @@
             "description": "Learn the art of jazz improvisation and develop your musical creativity.",
             "price": 229.99,
             "instructor": "Robert Johnson",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/jazz-improv.jpg"
         },
         {
@@ -87,7 +87,7 @@
             "description": "Master the bass guitar with advanced techniques and groove development.",
             "price": 219.99,
             "instructor": "Marcus Miller",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/bass-mastery.jpg"
         },
         {
@@ -107,7 +107,7 @@
             "description": "Dive deep into classical piano repertoire and advanced techniques.",
             "price": 329.99,
             "instructor": "Vladimir Petrov",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/classical-piano.jpg"
         },
         {
@@ -157,7 +157,7 @@
             "description": "Master your DAW for professional music production.",
             "price": 249.99,
             "instructor": "Steve Anderson",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/daw-mastery.jpg"
         },
         {
@@ -197,7 +197,7 @@
             "description": "Master essential rock drumming patterns and fills.",
             "price": 219.99,
             "instructor": "Tommy Lee",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/rock-drums.jpg"
         },
         {
@@ -207,7 +207,7 @@
             "description": "Professional techniques for mixing and mastering music.",
             "price": 289.99,
             "instructor": "Chris Lord-Alge",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/mixing-mastering.jpg"
         },
         {
@@ -217,7 +217,7 @@
             "description": "Start your acoustic guitar journey with essential techniques.",
             "price": 159.99,
             "instructor": "Taylor Swift",
-            "isFeatured": false,
+            "isFeatured": true,
             "image": "/images/courses/acoustic-guitar.jpg"
         },
         {
@@ -237,7 +237,7 @@
             "description": "Advanced cello techniques and repertoire development.",
             "price": 279.99,
             "instructor": "Yo-Yo Ma Jr.",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/cello.jpg"
         },
         {
@@ -287,7 +287,7 @@
             "description": "Learn the basics of composing music for film and media.",
             "price": 299.99,
             "instructor": "John Williams Jr.",
-            "isFeatured": true,
+            "isFeatured": false,
             "image": "/images/courses/film-scoring.jpg"
         },
         {
